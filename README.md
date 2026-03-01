@@ -1,19 +1,36 @@
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# ⌨️ CodeType: DSA & Programming Typing Mastery
+## Getting Started
 
-**CodeType** is an interactive, AI-driven typing platform designed specifically for developers. Unlike traditional typing tutors, CodeType focuses on muscle memory for **syntax, logic, and Data Structures & Algorithms (DSA)**. 
+First, run the development server:
 
-The goal is simple: Master your programming language and DSA concepts while simultaneously increasing your coding speed and accuracy.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🚀 Key Features
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-* **🛣️ Automated Learning Paths:** Select a language (Python, C++, Java, etc.) and a section (DSA, OOPS, Web Dev). The system automatically generates a structured roadmap from basic syntax to complex algorithms.
-* **🧠 AI-Powered Reports:** Beyond just WPM (Words Per Minute), our AI analyzes your typing patterns. It identifies if you struggle with specific symbols (like `{}` or `[]`) or if you slow down during complex logic like nested loops.
-* **⌨️ Visual Keyboard Guide:** An integrated, animated on-screen keyboard shows you exactly which finger to use for every keypress, reinforcing proper touch-typing form.
-* **📊 Comprehensive Analytics:** Track your progress over time with heatmaps of your most common syntax errors and a detailed breakdown of your DSA topic mastery.
-* **🌑 Developer-First UI:** A sleek, high-contrast interface designed to mimic modern IDEs (like VS Code) for a realistic coding feel.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
