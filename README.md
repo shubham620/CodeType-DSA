@@ -1,4 +1,3 @@
-﻿# CodeType-DSA: Programming-Based Typing Practice
 
 # ⌨️ CodeType: DSA & Programming Typing Mastery
 
@@ -17,3 +16,4 @@ The goal is simple: Master your programming language and DSA concepts while simu
 * **🌑 Developer-First UI:** A sleek, high-contrast interface designed to mimic modern IDEs (like VS Code) for a realistic coding feel.
 
 ---
+
